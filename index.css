@@ -9,12 +9,22 @@ body{
 }
 
 .red-text{
-    color: red;
+    color: blue;
 }
 
 .date{
-    color: blue;
-    font-weight: bold;
+    color: red;
+    font-weight: initial;
+}
+
+.informationOfficer{
+  text-align: center;
+  
+}
+
+.informationOfficer .suchana{
+  text-align: center;
+  background-color: blue;
 }
 
 
@@ -87,3 +97,14 @@ body{
     }
   }
   
+
+  /* #left side ::backdrop */
+.officeChief{
+  text-align: center;
+  color: blanchedalmond;
+}
+
+.gunaso{
+  text-align: center;
+  background-color: blue; 
+}

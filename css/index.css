@@ -87,3 +87,45 @@ body{
     }
   }
   
+
+  /* left bar  */
+
+  .informationOfficer{
+    text-align: center;
+    
+  }
+  
+  .informationOfficer .suchana{
+    text-align: center;
+    background-color: blue;
+    color: azure;
+  }
+
+  .informationOfficer .det-text{
+    color: blue;
+    margin-bottom: 1.5px;
+    font-size: small;
+  }
+
+  .informationOfficer .name{
+    font-size:medium;
+  }
+
+  .officeChief{
+    text-align: center;
+    color: #fff;
+  }
+  
+  .officeChief .gunaso{
+    text-align: center;
+    background-color: blue; 
+  }
+  .officeChief .det-text{
+    color: blue;
+    margin-bottom: 1.5px;
+    font-size: small;
+  }
+
+  .officeChief .name{
+    font-size: medium;
+  }
